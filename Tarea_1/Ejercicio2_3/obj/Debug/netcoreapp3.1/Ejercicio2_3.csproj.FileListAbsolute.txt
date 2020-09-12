@@ -1,0 +1,13 @@
+C:\Users\Diego Valerio\Source\Repos\Ejercicios_LibroCSharp\Tarea_1\Ejercicio2_3\obj\Debug\netcoreapp3.1\Ejercicio2_3.csprojAssemblyReference.cache
+C:\Users\Diego Valerio\Source\Repos\Ejercicios_LibroCSharp\Tarea_1\Ejercicio2_3\obj\Debug\netcoreapp3.1\Ejercicio2_3.AssemblyInfoInputs.cache
+C:\Users\Diego Valerio\Source\Repos\Ejercicios_LibroCSharp\Tarea_1\Ejercicio2_3\obj\Debug\netcoreapp3.1\Ejercicio2_3.AssemblyInfo.cs
+C:\Users\Diego Valerio\Source\Repos\Ejercicios_LibroCSharp\Tarea_1\Ejercicio2_3\obj\Debug\netcoreapp3.1\Ejercicio2_3.csproj.CoreCompileInputs.cache
+C:\Users\Diego Valerio\Source\Repos\Ejercicios_LibroCSharp\Tarea_1\Ejercicio2_3\bin\Debug\netcoreapp3.1\Ejercicio2_3.exe
+C:\Users\Diego Valerio\Source\Repos\Ejercicios_LibroCSharp\Tarea_1\Ejercicio2_3\bin\Debug\netcoreapp3.1\Ejercicio2_3.deps.json
+C:\Users\Diego Valerio\Source\Repos\Ejercicios_LibroCSharp\Tarea_1\Ejercicio2_3\bin\Debug\netcoreapp3.1\Ejercicio2_3.runtimeconfig.json
+C:\Users\Diego Valerio\Source\Repos\Ejercicios_LibroCSharp\Tarea_1\Ejercicio2_3\bin\Debug\netcoreapp3.1\Ejercicio2_3.runtimeconfig.dev.json
+C:\Users\Diego Valerio\Source\Repos\Ejercicios_LibroCSharp\Tarea_1\Ejercicio2_3\bin\Debug\netcoreapp3.1\Ejercicio2_3.dll
+C:\Users\Diego Valerio\Source\Repos\Ejercicios_LibroCSharp\Tarea_1\Ejercicio2_3\bin\Debug\netcoreapp3.1\Ejercicio2_3.pdb
+C:\Users\Diego Valerio\Source\Repos\Ejercicios_LibroCSharp\Tarea_1\Ejercicio2_3\obj\Debug\netcoreapp3.1\Ejercicio2_3.dll
+C:\Users\Diego Valerio\Source\Repos\Ejercicios_LibroCSharp\Tarea_1\Ejercicio2_3\obj\Debug\netcoreapp3.1\Ejercicio2_3.pdb
+C:\Users\Diego Valerio\Source\Repos\Ejercicios_LibroCSharp\Tarea_1\Ejercicio2_3\obj\Debug\netcoreapp3.1\Ejercicio2_3.genruntimeconfig.cache

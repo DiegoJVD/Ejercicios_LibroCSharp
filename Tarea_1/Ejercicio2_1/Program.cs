@@ -12,7 +12,7 @@ namespace Ejercicio2_1
             return perimetro;
         }
 
-        static void Main(string[] args)
+        public static void perimetro()
         {
             int numeroLados;
             float medidaLado;

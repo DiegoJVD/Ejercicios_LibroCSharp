@@ -4,7 +4,7 @@ namespace Ejercicio1_5
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void myInfo()
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("My name is diego");

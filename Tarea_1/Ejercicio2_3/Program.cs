@@ -4,7 +4,7 @@ namespace Ejercicio2_3
 {
     class Program
     {
-        static double GradosARadianes(double grados)
+        static double obtenerGrados_Radianes(double grados)
         {
             double radianes;
             radianes = grados * 0.0174533;
@@ -12,13 +12,13 @@ namespace Ejercicio2_3
             return radianes;
         }
 
-        static void Main(string[] args)
+        public static void grados_Radianes()
         {
             double grados;
             
             Console.WriteLine("Escriba los grados que quiere convertir a radianes ");
             grados = double.Parse(Console.ReadLine());
-            Console.WriteLine(grados + " grados En radianes es : "+GradosARadianes(grados));
+            Console.WriteLine(grados + " grados En radianes es : "+obtenerGrados_Radianes(grados));
         }
     }
 }

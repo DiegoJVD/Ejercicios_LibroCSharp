@@ -37,7 +37,7 @@ namespace Ejercicio3_4
 
             return dia;
         }
-        static void Main(string[] args)
+        public static void DiasDeSemana()
         {
             int num;
 

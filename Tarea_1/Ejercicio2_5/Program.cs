@@ -12,7 +12,7 @@ namespace Ejercicio2_5
             return euros;
         }
 
-        static void Main(string[] args)
+        public static void dolar_Euro()
         {
             double dolares;
             double tasa;

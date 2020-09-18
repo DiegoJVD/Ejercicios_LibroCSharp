@@ -14,7 +14,7 @@ namespace Ejercicio3_1
             }
         }
 
-        static void Main(string[] args)
+        public static void par_Impar()
         {
             int num;
             

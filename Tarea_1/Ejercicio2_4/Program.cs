@@ -12,7 +12,7 @@ namespace Ejercicio2_4
             return fahrenheit;
         }
 
-        static void Main(string[] args)
+        public static void centigrados_fahrenheit()
         {
             double centigrados;
             

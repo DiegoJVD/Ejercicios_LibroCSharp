@@ -7,14 +7,14 @@ namespace Tarea_2 {
             int opcion;
             do{
                 Console.Clear();
-                Console.WriteLine("MENU");
-                Console.WriteLine("0. Salir");
-                Console.WriteLine("1. Ejercicio 4.1 Tabla ");
-                Console.WriteLine("2. Ejercicio 4.2 Potenciacion");
-                Console.WriteLine("3. Ejercicio 4.5 Promedio de edad");
-                Console.WriteLine("4. Ejercicio 5.4 Factorial");
-                Console.WriteLine("5. Ejercicio 5.5 Numeros a letras");
-                Console.Write(" / n Elija una opcion : ");
+                Console.Write("Elija una opcion : \n");
+                Console.WriteLine("0) Salir");
+                Console.WriteLine("1) Capitulo 4 ejercicio 1: Tabla ");
+                Console.WriteLine("2) Capitulo 4 ejercicio 2: Potenciacion");
+                Console.WriteLine("3) Capitulo 4 ejercicio 5: Promedio de edad");
+                Console.WriteLine("4) capitulo 5 ejercicio 4: Factorial");
+                Console.WriteLine("5) capitulo 5 ejercicio 5: Numeros a letras");
+                
 
                 opcion = Convert.ToInt32(Console.ReadLine());
 

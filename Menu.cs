@@ -11,11 +11,12 @@ namespace Ejercicios_LibroCSharp
             do
             {
                 Console.Clear();
-                Console.WriteLine("MENU");
-                Console.WriteLine("1. Tarea 1");
-                Console.WriteLine("2. Tarea 2");
-                Console.WriteLine("0. Salir");
-                Console.Write("Elija una opcion: ");
+                Console.Write("Elija una opcion: \n");
+                Console.WriteLine("0) Salir");
+                Console.WriteLine("1) Ejercicios de la tarea 1");
+                Console.WriteLine("2) Ejercicios de la tarea 2");
+                
+                
 
                 opcion = Convert.ToInt32(Console.ReadLine());
 

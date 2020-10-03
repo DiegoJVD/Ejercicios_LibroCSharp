@@ -16,6 +16,7 @@ namespace Ejercicios_LibroCSharp
                 Console.WriteLine("1) Ejercicios de la tarea 1");
                 Console.WriteLine("2) Ejercicios de la tarea 2");
                 Console.WriteLine("3) Ejercicios de la tarea 3");
+                Console.WriteLine("4) Ejercicios de la tarea 4");
                 
                 
 
@@ -32,6 +33,9 @@ namespace Ejercicios_LibroCSharp
                         break;
                     case 3:
                         Tarea_3.SubMenu.main1();
+                        break;
+                    case 4:
+                        Tarea_4.SubMenu.main1();
                         break;
                 }
 

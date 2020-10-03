@@ -1,13 +1,13 @@
 using System;
 
-namespace Tarea_3 {
+namespace Tarea_4 {
     class SubMenu {
         public static void main1() {
 
             int opcion;
             do{
                 Console.Clear();
-                Console.Write("Elija una opcion : ");
+                Console.Write("Elija una opcion : \n");
                 Console.WriteLine("0) Salir");
                 Console.WriteLine("1) Capitulo 6 ejercicio 1:  ");
                 Console.WriteLine("2) Capitulo 6 ejercicio 2: ");
@@ -27,10 +27,10 @@ namespace Tarea_3 {
                     case 0: 
                         break;
                     case 1: 
-                        Ejercicio6_1.Program.Jagged();
+                        Ejercicio8_3.Program.Fecha();
                         break;
                     case 2:
-                        Ejercicio6_2.Program.Jagged2();
+                        Ejercicio8_5.Program.CompararCadena();
                         break;
                     case 3: 
                         Ejercicio6_3.Program.Jagged3();

@@ -37,6 +37,9 @@ namespace Ejercicios_LibroCSharp
                     case 4:
                         Tarea_4.SubMenu.main1();
                         break;
+                     case 5:
+                        Tarea_5.SubMenu.main1();
+                        break;
                 }
 
                 Console.ReadLine();
